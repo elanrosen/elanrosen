@@ -32,7 +32,7 @@ I'm a computer science student at **UMich**, feel free to reach out!
   - Python
   - Vector space model, web crawling, link analysis, query expansion, text classification, question answering, keyword extraction, knowledge graphs, image/video retrieval
 - [EECS 481 - Software Engineering](https://github.com/earosen/EECS-481)  
-  - C, Java, 
+  - C, Java
   - Coverage testing, automated test case generation, mutation testing, defect detection via static analysis tools, debugging automation
 - [EECS 493 - User Interface Development](https://github.com/earosen/EECS-493)  
   - Javascript, React.js, Vue.js, CSS/HTML
