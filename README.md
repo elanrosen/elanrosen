@@ -25,7 +25,7 @@ I'm a computer science student at **UMich**, feel free to reach out!
 - [EECS 388 - Computer Security](https://github.com/earosen/EECS-388)
   - Python
   - Threat models, generating randomness, PRGs, one-time pads, AES, block cipher modes, confidentiality attacks, authenticated encryption, RSA encryption, digital signatures
-- [EECS 485 - Web Development](https://github.com/earosen/CS-2114)
+- [EECS 485 - Web Development](https://github.com/earosen/EECS-485)
   - Javascript, React.js, Python, SQL
   - Templated static site generation, server-side dynamic pages, client-side dynamic pages, MapReduce algorithm, search engines
 - [EECS 486 - Information Retrieval](https://github.com/earosen/EECS-486)
