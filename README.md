@@ -1,7 +1,6 @@
 ### Hey there, I'm Elan!
 I'm a computer science student at **UMich**, feel free to reach out!
 
-- Email: earosen (at) umich.edu
 - LinkedIn: [Elan Rosen | LinkedIn]([https://www.linkedin.com/in/elanrosen/])
 
 ---
