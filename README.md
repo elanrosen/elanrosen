@@ -9,7 +9,7 @@ I'm a computer science student at **UMich**.
 
 - [Sapphire AI - AI Powered Recruiter Assistant](https://github.com/elanrosen/sapphire-ai)
 - [Full-stack CRM](https://github.com/elanrosen/full-stack-crm)
-- [Blueprints for Pangaea Inventory App](https://github.com/gveldhuis/BlueprintsInventoryApp)
+- [Blueprints for Pangaea Inventory App](https://github.com/elanrosen/BlueprintsInventoryApp)
 
 **CS Coursework**  
 *Private repositories, permission required!*
