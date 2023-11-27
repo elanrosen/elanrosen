@@ -5,10 +5,9 @@ I'm a computer science student at **UMich**.
 
 ---
 
-**Side Projects**
+**Highlighted Projects**
 
 - [Sapphire AI - AI Powered Recruiter Assistant](https://github.com/elanrosen/sapphire-ai)
-- [SQL Database Mgmt, Web Crawling, React](https://github.com/elanrosen/Full-Stack-Development-Project-Exploring-Node.js-Web-Scraping-and-React)
 - [Full-stack CRM](https://github.com/elanrosen/full-stack-crm)
 - [Blueprints for Pangaea Inventory App](https://github.com/gveldhuis/BlueprintsInventoryApp)
 
