@@ -1,10 +1,3 @@
-### Hey there, I'm Elan!
-I'm a computer science student at **UMich**.
-
-- [LinkedIn](https://www.linkedin.com/in/elanrosen/)
-
----
-
 **Highlighted Projects**
 
 - [Sapphire AI - AI Powered Recruiter Assistant](https://github.com/elanrosen/sapphire-ai)
