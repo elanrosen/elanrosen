@@ -5,7 +5,7 @@
 - [Blueprints for Pangaea Inventory App](https://github.com/elanrosen/BlueprintsInventoryApp)
 
 **CS Coursework**  
-*Private repositories, permission required!*
+*Private repositories, permission required*
 
 - [EECS 281 - Data Structures and Algorithms](https://github.com/earosen/EECS-281)
   - C++
