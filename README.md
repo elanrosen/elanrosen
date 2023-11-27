@@ -1,5 +1,5 @@
 ### Hey there, I'm Elan!
-I'm a computer science student at **UMich**, feel free to reach out!
+I'm a computer science student at **UMich**.
 
 - [LinkedIn](https://www.linkedin.com/in/elanrosen/)
 
