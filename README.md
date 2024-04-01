@@ -1,10 +1,10 @@
 **Highlighted Projects**
 
 - [Sapphire AI - AI Powered Recruiter Assistant](https://github.com/elanrosen/sapphire-ai)
-- [Full-stack CRM](https://github.com/elanrosen/full-stack-crm)
 - [Blueprints for Pangaea Inventory App](https://github.com/elanrosen/BlueprintsInventoryApp)
 - [Wyzant Automation](https://github.com/elanrosen/wyzant-automation)
 - [XBRL Industry Ratios](https://github.com/elanrosen/xbrl-industry-ratios)
+- [Full-stack CRM](https://github.com/elanrosen/full-stack-crm)
 
 
 **CS Coursework**  
